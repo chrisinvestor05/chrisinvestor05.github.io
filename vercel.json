@@ -1,3 +1,0 @@
-{
-  "rewrites": [{ "source": "/((?!assets/|brand/|favicon|icon-|apple-touch|manifest|og\\.jpg).*)", "destination": "/index.html" }]
-}
